@@ -4,6 +4,6 @@ end
 
   def meow
     puts "meow!"
-  end 
-end 
-end 
+  end
+end
+end
